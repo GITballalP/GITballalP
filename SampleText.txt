@@ -1,2 +1,3 @@
 
 Some text is added like string
+second line text
